@@ -1,4 +1,4 @@
-# Business Model
+# Internal inputs
 
 A business model is a plan to generate money and turn it into profit:
 
@@ -30,6 +30,8 @@ A business model is a plan to generate money and turn it into profit:
 
 Reduce cost in all areas. Low cost and large market can have great leverage on suppliers, cutting facility costs, relocate and adopt leand manufacturing. Has high operational efficiency, standarized products, tight supplier inventory control. High supplier quality and cut on reworks.
 
+*Target cost* the process of designing a product to meet a specific cost objective. Target costing involves setting the planned selling price, subtracting the desired profit as well as marketing and distribution costs, thus leaving the required manufacturing or target cost.
+
 #### Product or service differentiation strategies
 
 - High quality items
@@ -46,6 +48,8 @@ Reduce cost in all areas. Low cost and large market can have great leverage on s
 - Base model with numerous options
 - Collaboration with suppliers to develop innovative designs
 - Global track and trace technology to reduce counterfit
+
+*Postponement* is as “a product design or supply chain strategy that deliberately delays final differentiation…until the latest possible time in the process.”
 
 #### Focus advantage strategies
 
@@ -149,16 +153,3 @@ Three models how these cost can be configured:
 #### Revenue model
 
 Plan on how to earn more revenue to earn profits. A revenue model considers sales channels that the organizationwill employ to sell good or service.
-
-
-
-
-
-
-
-
-
-
-
-
-

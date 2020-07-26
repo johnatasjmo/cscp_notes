@@ -1,4 +1,4 @@
-# Misalignments or Gaps in Strategy
+# Optimization
 
 ### Reasons misalignments occur
 
@@ -32,6 +32,7 @@ Factors that contribute change:
 
 <hr>
 
+
 ### Solving misalignments
 
 Failing to recognize if the organization pushish instead of reward. However, brainstorming, open forums and external consultants is an option.
@@ -49,4 +50,3 @@ Lessons learned from Supply Chains:
 Align with complexity requirements (less group of SKUs)
 
 Align with supply chain partners (use influence to promote collaboration in supply - demand market)
-

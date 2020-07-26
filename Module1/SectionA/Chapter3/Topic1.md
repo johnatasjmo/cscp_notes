@@ -1,4 +1,4 @@
-# Objectives of supply chain management strategy
+# Objectives
 
 ## Objectives include
 

@@ -88,4 +88,6 @@ Unique characteristics
 
 <hr>
 
+
 The goal of a supply chain strategy is to ensure that the organization is in Stage 4. 
+

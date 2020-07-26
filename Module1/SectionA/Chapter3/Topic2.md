@@ -1,4 +1,4 @@
-# Supply Chain Strategy
+# Value
 
 Functionals trategies must articulate with the business plan. The purspose of suppy chain is to be globally competitive.
 
@@ -141,4 +141,3 @@ If supply chain management can reduce the spent on inventory or incrase the spee
 ### Revenue model
 
 Supply chain strategy can enable the stablisehment of proper sales channels per customer segment by helping establishing regional sales centers at warehouses or DCs.
-
