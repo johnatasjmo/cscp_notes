@@ -47,7 +47,7 @@ Still, lack of communication between departments
 
 ### Stage 3 - integrated enterprise
 
-Focus on companywide business processes. Existence of software in manufacturing, cross-functional communication and training, cetraly located and sales and ops teams planning together.
+Focus on companywide business processes. Existence of software in manufacturing, cross-functional communication and training, central located and sales and ops teams planning together.
 
 Proactive efficient supply chain:
 

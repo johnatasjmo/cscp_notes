@@ -85,7 +85,7 @@ Most organizations purse push-pull and the point where pull moves to pull is the
 
 Key changes:
 
-- access to read demand data for visibi	
+- access to read demand data for visibility
 - trust and collaboration with SC partners
 - increase agility of trade partners (because buffer inventories will decrease)
 
